@@ -240,9 +240,9 @@ static void zoom(const Arg *arg);
 
 /* variables */
 static const char autostartblocksh[] = "autostart_blocking.sh";
-static const char autostartsh[] = "autostart.sh";
+/* static const char autostartsh[] = "autostart.sh"; */
 static const char broken[] = "broken";
-static const char dwmdir[] = "suckless/dwm";
+/* static const char dwmdir[] = "suckless/dwm"; */
 static const char localshare[] = ".local/share";
 static char stext[256];
 static int screen;

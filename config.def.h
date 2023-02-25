@@ -1,6 +1,8 @@
 /* See LICENSE file for copyright and license details. */
 
 /* appearance */
+static const char autostartsh[] = "autostart.sh";
+static const char dwmdir[] = "suckless/dwm";
 static const unsigned int borderpx  = 4;        /* border pixel of windows */
 static const unsigned int gappx     = 6;        /* gaps between windows */
 static const unsigned int snap      = 32;       /* snap pixel */
